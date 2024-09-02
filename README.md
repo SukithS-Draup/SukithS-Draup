@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here’s a revised version:<br><br>🔭 I’m currently working as a Software Developer @Draup Inc.  <br>👯 I’m looking to collaborate on projects involving Python, FastAPI, and cloud-based architectures.  <br>🤝 I’m looking for help with advanced concepts in blockchain, TypeScript, and React.  <br>🌱 I’m currently learning React and exploring blockchain and cryptocurrency.  <br>⚡ Fun fact: I’m diving into blockchain while mastering the latest front-end technologies!  <br>💻 Skills: Python, FastAPI, Prometheus, Grafana, AWS, Redis, Celery, ELK stack.
+Here’s a revised version:<br><br>🔭 I’m currently working as a Software Developer @Draup Inc.  <br>👯 I’m looking to collaborate on projects involving Python, FastAPI, and cloud-based architectures.  <br>🤝 I’m looking for help with advanced concepts in blockchain, TypeScript, and React.  <br>🌱 I’m currently learning React and exploring blockchain and cryptocurrency.  <br>💻 Skills: Python, FastAPI, Prometheus, Grafana, AWS, Redis, Celery, ELK stack.
 
 
 ## 🌐 Socials:
